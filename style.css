@@ -38,8 +38,8 @@ nav img{
 }
 
 .conteudo h1{
-  font-size: 60px;
-  margin-top: 40px;
+  font-size: 50px;
+  margin-top: 20px;
   text-align: center;
   font-weight: 600;
 }
@@ -85,5 +85,13 @@ nav img{
   margin: 0 auto;
   margin-top: 40px;
   cursor: pointer;
+}
+
+.lista p{
+  margin-top: 2rem;
+}
+.lista span{
+  font-size: 18px;
+  font-weight: 400;
 }
 
