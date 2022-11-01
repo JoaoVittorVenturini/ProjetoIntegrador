@@ -13,7 +13,7 @@ body{
 
 nav{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   background-color: #0FFF50;
   height: 100px;
   padding: 0 70px;
