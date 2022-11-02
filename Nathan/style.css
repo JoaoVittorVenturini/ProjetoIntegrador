@@ -33,7 +33,23 @@ nav img{
     border: 2px solid #0FFF50;
 }
 
+.conteudo{
+    background: radial-gradient(97.66% 97.66% at 50% 2.34%, rgba(0, 0, 0, 0) 0%, rgba(255, 255, 255, 0.2) 100%), radial-gradient(97.57% 210.75% at 0.9% 2.98%, rgba(107, 107, 107, 0.4) 0%, rgba(255, 255, 255, 0) 100%);
+    backdrop-filter: blur(21px);
+    border-radius: 25px;
+    box-sizing: border-box;
+    width: 700px;
+    height: 800px;
+    margin: 40px auto;
+    text-align: center;
+    border: 2px solid #0FFF50;
+}
+
 .col{
+    color: white;
+}
+
+.col-md-2{
     color: white;
 }
 
@@ -49,4 +65,22 @@ nav img{
     border: none;
     font-weight: bold;
     color: white;
+}
+
+.produto{
+    min-width: 602px;
+    border-radius: 8px;
+    height: 60px;
+}
+
+.desc{
+    min-width: 602px;
+    border-radius: 8px;
+    height: 250px;
+}
+
+.info{
+    min-width: 200px;
+    border-radius: 6px;
+    height: 40px;
 }
