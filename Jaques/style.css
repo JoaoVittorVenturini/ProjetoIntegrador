@@ -23,13 +23,6 @@ nav img{
   width: 95px;
 }
 
-.titulo{
-  margin-top: 10px;
-  color:#EDEDED ;
-  text-align: center;
-  font-size: 55px;
-}
-
 .conteudo{
   background: radial-gradient(97.66% 97.66% at 50% 2.34%, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 100%), radial-gradient(97.57% 210.75% at 0.9% 2.98%, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 100%);
   filter: drop-shadow(0px 11px 14px rgba(0, 0, 0, 0.25));
@@ -38,7 +31,7 @@ nav img{
   border: 2px solid #0FFF50;
   height: 700px;
   width: 600px;
-  margin: 2rem auto;
+  margin: 5rem auto;
   padding: 50px;
   color: #FFF;
 
@@ -80,8 +73,8 @@ nav img{
 }
 
 .conteudo textarea{
-  height: 50px;
-  max-height: 100px;
+  height: 100px;
+  max-height: 150px;
 }
 
 .conteudo input[type="submit"]{
@@ -105,9 +98,4 @@ nav img{
 .lista span{
   font-size: 18px;
   font-weight: 400;
-}
-
-footer {
-  height: 100px;
-  background-color: #0FFF50;
 }
